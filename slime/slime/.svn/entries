@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://192.168.1.119/svn/Slime/server/slime/slime
+https://192.168.1.119/svn/Slime
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b6803d88-141b-a44d-aa85-3f07b8be1811
+
+__init__.py
+file
+
+
+
+add
+
+settings.py
+file
+
+
+
+add
+
+urls.py
+file
+
+
+
+add
+
+wsgi.py
+file
+
+
+
+add
+
